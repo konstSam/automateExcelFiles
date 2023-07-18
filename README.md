@@ -1,4 +1,4 @@
-# Python App that automates updating multiple Excel files
+# Python App that updates multiple Excel files
 
 Excel Files Updater
 
